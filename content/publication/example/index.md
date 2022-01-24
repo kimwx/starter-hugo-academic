@@ -7,7 +7,7 @@ abstract: In this paper, we analyze how sequentially introducing decision
   constraint right-hand side have no effect on the value function - and relate
   these structures to IP value functions and optimal solutions.
 slides: ""
-url_pdf: ""
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0167637721000602"
 publication_types:
   - "2"
 authors:
