@@ -1,7 +1,8 @@
 ---
-<!-- active: false
+active: false
 widget: teaching
 date_format: Jan 2006
+<!-- 
 experience:
   - title: CEO
     company: GenCoin
