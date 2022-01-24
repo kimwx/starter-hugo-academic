@@ -25,7 +25,7 @@ url_source: ""
 url_video: ""
 title: A Gilmore-Gomory construction of integer programming value functions
 doi: https://doi.org/10.1016/j.orl.2021.04.008
-featured: true
+featured: false
 tags: []
 projects: []
 image:
@@ -34,7 +34,7 @@ image:
   preview_only: false
 date: 2022-01-24T22:03:26.463Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
