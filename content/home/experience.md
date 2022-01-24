@@ -27,7 +27,7 @@ experience:
 widget_id: Teaching
 headless: true
 weight: 40
-title: Teaching
+title: ""
 subtitle: ""
 design:
   columns: "2"
