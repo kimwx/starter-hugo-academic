@@ -1,6 +1,6 @@
 ---
-widget: teaching
 <!-- active: false
+widget: teaching
 date_format: Jan 2006
 experience:
   - title: CEO
@@ -27,11 +27,12 @@ experience:
 widget_id: Teaching
 headless: true
 weight: 40
-title: ""
+title: Teaching
 subtitle: ""
 design:
   columns: "2"
---- -->
+---
+ -->
 I have been a teaching assistant for the following courses:
 
 * Healthcare Management, Design, and Strategy (MBA Elective)
