@@ -1,6 +1,6 @@
 ---
 title: Wenxin Zhang
-role: ""
+role: Ph.D. Student
 bio: ""
 interests: []
 social:
