@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 widget: teaching
 date_format: Jan 2006
 I have been a teaching assistant for the following courses:
